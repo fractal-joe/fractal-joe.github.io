@@ -1,2 +1,0 @@
-import{S as t}from"./SchemaPoint.35649aaf.js";import"./index.feb24b62.js";import"./iframe.bc74a010.js";import"./extends.3e639224.js";import"./Select.92af27b3.js";import"./GlobalStyles.0960110e.js";import"./inheritsLoose.66087489.js";import"./index.72579647.js";const n={title:"Example/QueryBasedPoint",component:t,tags:["docsPage"],argTypes:{}},c={args:{}},d=["Main"];export{c as Main,d as __namedExportsOrder,n as default};
-//# sourceMappingURL=SchemaPoint.stories.e31bd37b.js.map
